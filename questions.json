@@ -1,0 +1,62 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Timmy was trying to figure out 479. Can you fill in the missing blank and help him?",
+    "options":["479","=","400","+","","+","9"],
+    "answers": ["479","=","400","+","70","+","9"]
+  },
+  {
+    "questionNo": 2,
+    "question": "Next, Timmy needed help with 649. What number goes in the missing spot?",
+    "options":["649","=","600","+","","+","9"],
+    "answers": ["649","=","600","+","40","+","9"]
+  },
+  {
+    "questionNo": 3,
+    "question": "Timmy was stuck on 305. Can you help him fill in the missing number?",
+    "options":["305","=","","+","0","+","5"],
+    "answers": ["305","=","300","+","0","+","5"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Then Timmy looked at 482 and wasn’t sure. Can you find the missing number?",
+    "options":["482","=","400","+","","+","2"],
+    "answers": ["482","=","400","+","80","+","2"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Timmy’s next puzzle was to solve 710. What number completes the equation?",
+    "options":["710","=","","+","10","+","0"],
+    "answers": ["710","=","700","+","10","+","0"]
+  },
+  {
+    "questionNo": 6,
+    "question": "Timmy looked at 934. Can you help him fill in the blank?",
+    "options":["934","=","900","+","","+","4"],
+    "answers": ["934","=","900","+","30","+","4"]
+  },
+  {
+    "questionNo": 7,
+    "question": "Timmy was working on the number 251 and couldn’t find the missing part. Can you help?",
+    "options":["251","=","200","+","","+","1"],
+    "answers": ["251","=","200","+","50","+","1"]
+  },
+  {
+    "questionNo": 8,
+    "question": "Timmy looked at 407 and wasn’t sure what to put in the missing space. Can you help him fill in the blank?",
+    "options":["407","=","","+","0","+","7"],
+    "answers": ["407","=","400","+","0","+","7"]
+  },
+  {
+    "questionNo": 9,
+    "question": "Timmy was puzzled by 763 and couldn’t find the middle number. Can you help him out?",
+    "options":["763","=","700","+","","+","3"],
+    "answers": ["763","=","700","+","60","+","3"]
+  },
+  {
+    "questionNo": 10,
+    "question": "Finally, Timmy was stuck on 504 and needed your help to fill in the missing number. Can you figure it out?",
+    "options":["504","=","","+","0","+","4"],
+    "answers": ["504","=","500","+","0","+","4"]
+  }
+]
